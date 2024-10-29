@@ -1,6 +1,6 @@
  # MVC5 Admin Panelli Dinamik CV Sitesi
 
-## Proje Açıklaması
+## Proje Açıklaması 👩‍💻
 
 Bu proje, ASP.NET MVC5 kullanarak geliştirilmiş bir dinamik CV sitesidir. Kullanıcılar, kendi bilgilerini yönetebilir ve güncelleyebilirken, admin paneli sayesinde içerik yönetimi kolaylıkla yapılmaktadır. 📄✨
 
