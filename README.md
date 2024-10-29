@@ -19,4 +19,6 @@ Bu proje, ASP.NET MVC5 kullanarak geliştirilmiş bir dinamik CV sitesidir. Kull
 - Admin Paneli: Güvenli bir oturum açma sistemi ile kullanıcıların yönetim paneline erişimini kontrol eder. 🔒
 - İçerik Yönetimi: Kullanıcılar, CV bilgilerini ekleyebilir, düzenleyebilir veya silebilir. 📝
 
+🔗 Projenin detaylarına ve kodlara göz atmak isterseniz, buradan ulaşabilirsiniz: [GitHubRepository](https://github.com/Melekdmr/MVC5-Admin-Panelli-Dinamik-CV-Sitesi)
+
 
