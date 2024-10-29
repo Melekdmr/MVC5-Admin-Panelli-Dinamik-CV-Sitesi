@@ -17,4 +17,19 @@ Admin Paneli: Güvenli bir oturum açma sistemi ile kullanıcıların yönetim p
 İçerik Yönetimi: Kullanıcılar, CV bilgilerini ekleyebilir, düzenleyebilir veya silebilir. 📝
 
 🔗 Projenin detaylarına ve kaynak kodlarına ulaşmak için buraya göz atabilirsiniz:[GitHub Repository](https://github.com/Melekdmr/MVC5-Admin-Panelli-Dinamik-CV-Sitesi)  
+# Projemin Başlığı
+
+Bu proje, bir CV sitesidir.
+
+## Özellikler
+
+- Kullanıcı kaydı
+- Dinamik içerik
+- Responsive tasarım
+
+## Kurulum
+
+1. Reponuzu klonlayın
+2. Gerekli bağımlılıkları yükleyin
+3. Uygulamayı çalıştırın
 
