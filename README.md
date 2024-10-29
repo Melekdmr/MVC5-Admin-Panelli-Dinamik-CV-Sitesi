@@ -23,3 +23,5 @@ Bu proje, ASP.NET MVC5 kullanarak geliştirilmiş bir dinamik CV sitesidir. Kull
 
 
 ![ ](https://github.com/Melekdmr/MVC5-Admin-Panelli-Dinamik-CV-Sitesi/raw/main/images/asertifika.png)
+![ ](https://github.com/Melekdmr/MVC5-Admin-Panelli-Dinamik-CV-Sitesi/raw/master/images/asertifika.png)
+
