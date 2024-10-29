@@ -1,0 +1,75 @@
+﻿@using Mvc_Dynamic_CV.Models.Entity
+@model List<TblSertifikalarım>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+@{ string renk = "";}
+@{ string renk1 = "";}
+<!DOCTYPE html>
+<html>
+<body class="hold-transition sidebar-mini">
+    <section class="content">
+        <div class="container-fluid">
+            <div class="row">
+
+                <!-- /.col -->
+                <div class="col-md-12">
+                    <div class="card">
+                        <div class="card-header p-2">
+
+                        </div><!-- /.card-header -->
+                        <div class="card-body">
+
+                            <div class="tab-pane" id="timeline">
+                                <!-- The timeline -->
+                                <div class="timeline timeline-inverse">
+                                    <!-- timeline time label -->
+                                    @foreach (var item in Model)
+                                    {
+                                        if (item.ID % 2 == 0)
+                                        {
+                                            renk = "btn btn-primary";
+                                            renk1 = "bg-primary";
+                                        }
+                                        else {
+                                            renk = "btn btn-success";
+                                            renk1 = "bg-success";
+                                        }
+
+                                    <div class="time-label">
+                                        <a href="/Sertifika/SertifikaGetir/@item.ID" class="@renk">
+                                            <span class="@renk1">
+                                                @item.Tarih
+                                            </span>
+                                        </a>
+                                    </div>
+
+                                    <div>
+                                        <i class="fas fa-award bg-yellow"></i>
+                                        <div class="timeline-item">
+
+
+                                            <div class="timeline-body">
+                                                @item.Aciklama
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                    }
+                                </div>
+                                <a href="/Sertifika/SertifikaEkle/" class="btn btn-info">Yeni Sertifika Ekle</a>
+                            </div>
+                        </div>
+                        <!-- /.tab-content -->
+                    </div><!-- /.card-body -->
+                </div>
+                <!-- /.nav-tabs-custom -->
+            </div>
+
+        </div>
+
+
+    </section>
+</body>
+</html>
