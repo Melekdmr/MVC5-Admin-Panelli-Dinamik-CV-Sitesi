@@ -22,6 +22,15 @@ Bu proje, ASP.NET MVC5 kullanarak geliştirilmiş bir dinamik CV sitesidir. Kull
 🔗 Projenin detaylarına ve kodlara göz atmak isterseniz, buradan ulaşabilirsiniz: [GitHubRepository](https://github.com/Melekdmr/MVC5-Admin-Panelli-Dinamik-CV-Sitesi)
 
 
-![ ](https://github.com/Melekdmr/MVC5-Admin-Panelli-Dinamik-CV-Sitesi/raw/main/images/asertifika.png)
+![ ](https://github.com/Melekdmr/MVC5-Admin-Panelli-Dinamik-CV-Sitesi/raw/master/images/login.png)
+![ ](https://github.com/Melekdmr/MVC5-Admin-Panelli-Dinamik-CV-Sitesi/raw/master/images/hakkimda.png)
+![ ](https://github.com/Melekdmr/MVC5-Admin-Panelli-Dinamik-CV-Sitesi/raw/master/images/yeteneklerim.png)
+![ ](https://github.com/Melekdmr/MVC5-Admin-Panelli-Dinamik-CV-Sitesi/raw/master/images/banaulas.png)
+![ ](https://github.com/Melekdmr/MVC5-Admin-Panelli-Dinamik-CV-Sitesi/raw/master/images/ayetenek.png)
 ![ ](https://github.com/Melekdmr/MVC5-Admin-Panelli-Dinamik-CV-Sitesi/raw/master/images/asertifika.png)
+![ ](https://github.com/Melekdmr/MVC5-Admin-Panelli-Dinamik-CV-Sitesi/raw/master/images/asos.png)
+![ ](https://github.com/Melekdmr/MVC5-Admin-Panelli-Dinamik-CV-Sitesi/raw/master/images/asos1.png)
 
+
+## İletişim 📧
+Eğer proje hakkında bir sorunuz varsa, lütfen benimle iletişime geçin!
