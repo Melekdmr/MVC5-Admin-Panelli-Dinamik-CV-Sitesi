@@ -4,6 +4,7 @@ Bu proje, ASP.NET MVC5 kullanarak geliştirilmiş bir dinamik CV sitesidir. Kull
 
 Teknolojiler 💻
 ASP.NET MVC5: Web uygulamasının temel yapısı.
+
 MSSQL Server: Veritabanı yönetimi için kullanıldı.
 Entity Framework: Veritabanı işlemleri için DB First yaklaşımıyla entegre edildi.
 Repository Pattern: Kodun düzenlenmesini ve bakımını kolaylaştırır. 🔄
