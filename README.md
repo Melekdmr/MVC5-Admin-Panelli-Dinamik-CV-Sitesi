@@ -33,4 +33,4 @@ Bu proje, ASP.NET MVC5 kullanarak geliştirilmiş bir dinamik CV sitesidir. Kull
 
 
 ## İletişim 📧
-🔗 Eğer proje hakkında bir sorunuz varsa, lütfen benimle iletişime geçin
+🔗 Eğer proje hakkında bir sorunuz varsa, lütfen benimle iletişime geçin!
