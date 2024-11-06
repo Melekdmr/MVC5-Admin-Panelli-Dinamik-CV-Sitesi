@@ -11,7 +11,7 @@ Bu proje, ASP.NET MVC5 kullanarak geliştirilmiş bir dinamik CV sitesidir. Kull
 - Entity Framework: Veritabanı işlemleri için DB First yaklaşımıyla entegre edildi.
 - Repository Pattern: Kodun düzenlenmesini ve bakımını kolaylaştırır. 🔄
 - LINQ: Veritabanından veri sorgulama ve filtreleme işlemleri.
-- HTML/CSS & Bootstrap: Kullanıcı dostu, modern ve duyarlı tasarım. 🎨
+- HTML/CSS & Bootstrap: Kullanıcı dostu, modern ve duyarlı tasarımmm. 🎨
 - Partial Views: Sayfalar arası geçişleri kolaylaştırır.
 
 ## Proje Özellikleri 🚀
